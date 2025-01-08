@@ -1,5 +1,5 @@
 # Sakshi udyog pvt ltd
-The site is live at https://dubeysanskar.github.io/sakshi-udyog/
+The site is live at https://krishnabhambani.github.io/Udyog/
 
 # Dhatu Udyog Pvt Limited - Freelance Website Project
 Welcome to the GitHub repository for the Dhatu Udyog Pvt Limited freelance website project. This project aims to create a professional and user-friendly website for a company specializing in steel and iron manufacturing in India in LIGHT and DARK modes. The website is built using HTML, CSS, and JavaScript.
@@ -45,16 +45,16 @@ Services Offered: A section detailing the various services provided by the compa
 Blog Section: A blog to share industry news, updates, and articles.
 
 # Technologies Used
-HTML: For structuring the content of the website.
+HTML: This is used to structure the content of the website.
 CSS: For styling and layout.
 JavaScript: For interactivity and dynamic content.
 # Installation
 To run this project locally, follow these steps:
 Clone the repository:
-git clone git@github.com:dubeysanskar/sakshi-udyog.git
+git clone git@github.com:krishnabhambani/Udyog.git
 
 # Usage
-You can open the index.html file in your web browser to see the website. You can also use a local web server for a better development experience live at https://dubeysanskar.github.io/sakshi-udyog/.
+You can open the index.html file in your web browser to see the website. You can also use a local web server for a better development experience live at https://krishnabhambani.github.io/Udyog/.
 
 # Contributing
 Contributions are welcome! If you have suggestions for improvements or find any issues, please open an issue or submit a pull request.
@@ -73,8 +73,8 @@ git push origin feature-name
 Open a pull request.
 
 # Contact
-For any questions or inquiries, please contact us at:
+For any questions or inquiries, please get in touch with us at:
 
-Email: sanskardubeydev@gmail.com
+Email: krishnabambani1@gmail.com
 
 # Thank you for visiting our GitHub repository! We hope you find this project useful and informative.
